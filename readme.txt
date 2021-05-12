@@ -12,3 +12,7 @@ $ git add index.html
 $ git add .
 $ git commit -m 'Changed NamingVariableCamelPascalSnake.py
 $ git status
+$ git branch login
+$ git checkout login
+$ git remote add origin https://github.com/brothjs/learnpython.git
+$ git push -u origin master
