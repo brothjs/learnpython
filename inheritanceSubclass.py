@@ -23,5 +23,3 @@ class UserV1(User):
 user1 = UserV1("Note", "test")
 user1.clear()
 print(user1)
-
-
