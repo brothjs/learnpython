@@ -20,4 +20,4 @@ $ git add .
 $ git commit -m 'Changed readme.txt
 $ git push
 
-ref : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW5OMzZjbjVfdXJjQmktcktTY3Iza3FHS2JPQXxBQ3Jtc0tteXczSFE2c0VqT2t4SElWaVpLRU9idHJWY0lVSmNuaVpOSmktcnVZZ3hQWWRxanJPbUtoTDBONDdFcHFNRmFlelEzTlpucndSTlRsZUpFb05vRGFqNG1tdTQ4ZUYyZHJZVG1WVkYyT19WaGhpYUpGOA&q=https%3A%2F%2Fgithub.com%2Fcodemobiles%2Fcm_python_programming
+ref : https://www.youtube.com/watch?v=ZEJgUEnzSpI&list=PLjPfp4Ph3gBqOddxQ8eutrgR1Qzc_tGZM&t=0s
